@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: gray;
+}
+
+header{
+    display: flex;
+    background-color: cadetblue;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+header a{
+    color: white;
+    font-size: 1rem;
+}
+
+header div{
+    padding: 15px;
+}
+
+footer{
+    padding: 15px;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+input{
+    margin: 4px;
+    padding: 8px;
+    width: 100%;
+}
+
+button{
+    padding: 10px;
+    cursor: pointer;
+}
+
+.signup-container{
+    margin: auto;
+    max-width: 600px;
+}
+
+.signup-container h2{
+    text-align: center;
+}
+
+form{
+    margin: auto;
+    padding: 10px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+textarea{
+    margin: 4px;
+    padding: 8px;
+    width: 100%;
+}
+
+
+
+.profile-container{
+    margin: auto;
+    max-width: 600px;
+    text-align: center;
+}

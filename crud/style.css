@@ -1,0 +1,75 @@
+.registerTitle{
+    text-align: center;
+}
+.outerForm{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.innerForm{
+    border: 2px solid black;
+    width: 20%;
+    padding: 20px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.sexOption{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+
+
+
+
+
+
+.viewTitle{
+    text-align: center;
+}
+.viewTable{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+.viewTable th, td{
+    border: 1px solid black;
+}
+.viewTable img{
+    width: 20%;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+
+
+
+
+
+
+.detailedViewTitle{
+    text-align: center;
+}
+
+.detailedViewTable{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+.detailedViewTable th, td{
+    border: 1px solid black;
+}
+
+.detailedViewTable img{
+    width: 20%;
+    border-radius: 50%;
+    border: 2px solid black;
+}
